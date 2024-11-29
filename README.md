@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and web development
 - 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate on python related projects
-- 📫 How to reach me : mail-raghavscubeadventures14@gmail.com
+- 📫 How to reach me : raghavscubeadventures14@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I,m a fast learner but I,m also lazy
 
